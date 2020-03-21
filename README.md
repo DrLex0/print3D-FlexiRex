@@ -1,5 +1,5 @@
 # Flexi Rex with stronger links
-*3D printable print-in-place flexible T-rex, with strong links to be more kid-proof.*
+*3D printable print-in-place flexible T-rex, with strong links to be more kid-proof (formerly thing:2738211)*
 
 ### License
 [Creative Commons - Attribution - Share Alike](https://creativecommons.org/licenses/by-sa/3.0/)
