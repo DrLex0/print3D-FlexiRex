@@ -24,6 +24,8 @@ If you want to create your own flexible model, make sure to check the **Hinge De
 
 ### Notice to anyone wanting to sell this
 
+Please read the following before trying to contact me. Most likely the answer to any question you have, is in here. Avoiding to ask questions that have already been answered, will save time both from your and my part.
+
 This model is released under a *Creative Commons - Attribution - Share Alike* license. The details can be [found on the CC website](https://creativecommons.org/licenses/by-sa/4.0/) but in a nutshell it means you are pretty much free to do anything with it including selling prints **if you comply with the following conditions:**
 
 * **‘Attribution’** means you must always provide a visible reference to the origin of the model both on the webpage where you sell the model, and inside the packaging of the actual physical product. A link to the GitHub repository or even just “print3D-FlexiRex by DrLex0 on GitHub” suffices. You should also, and perhaps in the first place, refer to the original model from [Kirbs (thing:1759297)](https://www.thingiverse.com/thing:1759297). A ready-to-print attribution card is included with the downloadable files for this model in PDF format. I don't care how the attribution message is formatted as long as there is no possibility that anyone could believe you are the author of the model because you are selling it. ***This is a very easy requirement*** that doesn't incur any extra cost except a minute of your time. You *do not* need to share any profits¹. If you skip this tiny simple effort and catch enough attention, it might end up costing much more than you gained from it.
@@ -31,7 +33,7 @@ This model is released under a *Creative Commons - Attribution - Share Alike* li
 
 If you see this being sold anywhere without the required attribution, don't bother notifying me about it unless it goes far beyond the small scale of a typical Etsy or Facebook store. I don't have the time or means to hunt down all the unscrupulous people who want to make it seem as if they created this model and sell it at an exaggerated price. Moreover my contribution to this design is relatively small: [Kirbs](https://www.thingiverse.com/Kirbs/about) deserves most of the credit. If you do want to spread awareness about this model's true origin on sites where it is sold without attribution, post a comment there and link to this page if possible.
 
-This model contains about 70 cents worth of material when printed in a premium filament. Add to this the costs of electricity and perhaps depreciation of printing infrastructure, and you might end up with $2 at most. Anyone who pays much more than that for a print is being ripped off.
+This model contains about 70 cents worth of material when printed in a premium filament. Add to this the costs of electricity and perhaps depreciation of printing infrastructure, and a bit of profit margin, and you might end up with about $2. Anyone who pays much more than that for a print is being ripped off.
 
 (1: Of course you can always [tip me](https://www.dr-lex.be/about/#contact) if you insist on sharing some profits or just want to show some appreciation.)
 
