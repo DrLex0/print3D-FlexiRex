@@ -56,6 +56,11 @@ This should move freely right after you take it off the build plate. If you prin
 This is not a demanding print. If this is one of the first things you're printing and it fails, expect other things to fail as well.
 
 
+## Remarks
+
+* This model was designed using a mesh-based program. Mesh-based models cannot be generally converted into a volume-based representation as used by technical CAD programs, so please don't ask me for a STEP file or whatever other CAD format of this model, because there is none. If you want to modify the model, the most sensible approach is to use a mesh-based editor.
+
+
 ## Hinge Design
 
 If you want to create your own flexible model, **by all means copy the hinge design from this one, or at least use the hinge dimensions image as a guideline.** I see way too many ‘flexi’ models that still use the weak hinge design from the original model, or other shapes that have way too little material in the most crucial locations, often the end of the shackle or ‘ring’ is too thin. Make sure to provide as much material around the axle hole as possible, instead of cutting away as much as possible as some designers tend to do. You won't gain any flexibility by providing more clearance than needed, the model will only become weaker.
