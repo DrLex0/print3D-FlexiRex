@@ -16,9 +16,9 @@ This is another remix of Kirbs' Flexi Rex ([Thingiverse thing:1759297](https://w
 
 This is the Flexi Rex, which now seems to have joined the club of things anyone having bought a 3D printer ought to print at least once. This is not the first version of this dinosaur. All credit for the original design and appearance goes to [Kirbs](https://www.thingiverse.com/Kirbs/about). My print of Kirbs' model was not very kid-proof however: one of the links broke after some rough handling. Hence in this updated version I made all links more robust. This means this model can probably be printed even smaller than the original ones before the links become too weak. Of course you can also scale it up at will.
 
-‘Dual’ files are also available if you want to do a dual material print with alternating colors.
+‘Dual’ files are also available if you have a multi-material printer and want to do a dual material print with alternating colors.
 
-If you want to make a really huge print, [there is an alternative version](https://github.com/DrLex0/print3D-flexirex-separate) where you can print each segment separately and then assemble it.
+If you want to make a really huge print, [there is an alternative version](https://github.com/DrLex0/print3D-flexirex-separate) where you can print each segment separately and then assemble it. This also allows to print the model in multiple colors on single-material printers, but you do lose the magic of a fully assembled model coming straight out of the printer.
 
 If you want to create your own flexible model, make sure to check the **Hinge Design** section below.
 
