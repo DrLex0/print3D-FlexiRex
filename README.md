@@ -22,7 +22,8 @@ If you want to make a really huge print, [there is an alternative version](https
 
 If you want to create your own flexible model, make sure to check the **Hinge Design** section below.
 
-### Notice to anyone wanting to sell this
+
+### License clarification: notice to anyone wanting to sell this
 
 Please read the following before trying to contact me. Most likely the answer to any question you have, is in here. Avoiding to ask questions that have already been answered, will save time both from your and my part.
 
@@ -31,11 +32,16 @@ This model is released under a *Creative Commons - Attribution - Share Alike* li
 * **‘Attribution’** means you must always provide a visible reference to the origin of the model both on the webpage where you sell the model, and inside the packaging of the actual physical product. A link to the GitHub repository or even just “print3D-FlexiRex by DrLex0 on GitHub” suffices. You should also, and perhaps in the first place, refer to the original model from [Kirbs (thing:1759297)](https://www.thingiverse.com/thing:1759297). A ready-to-print attribution card is included with the downloadable files for this model in PDF format. I don't care how the attribution message is formatted as long as there is no possibility that anyone could believe you are the author of the model because you are selling it. ***This is a very easy requirement*** that doesn't incur any extra cost except a minute of your time. You *do not* need to share any profits¹. If you skip this tiny simple effort and catch enough attention, it might end up costing much more than you gained from it.
 * **‘Share Alike’** means that if you make modifications to the 3D model and sell or give away prints based on that modified model, you must publish this modified 3D model and it must be licensed under either the same CC BY-SA license, or a more restrictive license. Of course wherever you publish your modified model, the webpage must also link back to the origin (i.e., this page). Again, this costs you nothing except a few minutes of your time.
 
-If you see this being sold anywhere without the required attribution, don't bother notifying me about it unless it goes far beyond the small scale of a typical Etsy or Facebook store. I don't have the time or means to hunt down all the unscrupulous people who want to make it seem as if they created this model and sell it at an exaggerated price. Moreover my contribution to this design is relatively small: [Kirbs](https://www.thingiverse.com/Kirbs/about) deserves most of the credit. If you do want to spread awareness about this model's true origin on sites where it is sold without attribution, post a comment there and link to this page if possible.
-
 This model contains about 70 cents worth of material when printed in a premium filament. Add to this the costs of electricity and perhaps depreciation of printing infrastructure, and a bit of profit margin, and you might end up with about $2. Anyone who pays much more than that for a print is being ripped off.
 
 (1: Of course you can always [tip me](https://www.dr-lex.be/about/#contact) if you insist on sharing some profits or just want to show some appreciation.)
+
+
+### I found someone violating the license, now what?
+
+First of all, selling the STL for money is perfectly legal. Kind of dumb, but allowed *if proper attribution is provided* on the page where the model is sold. The attribution would of course require to also provide a link to this page where the same STL can be downloaded for free, but some customers might be too lazy to read all the text and buy the model anyway, and there is nothing wrong with that if there is no violation of the license.
+
+If on the other hand you see this model or prints of it being sold somewhere without the required attribution, don't try to contact me right away. I don't have the time or means to hunt down all the unscrupulous people who want to make it seem as if they created this model and sell it at an exaggerated price. Also don't try to report it as a copyright violation yourself, this usually has to be done by the author of the work themself. It would be most helpful if you would first notify the author of the sales page and point them to this GitHub page. Ask them to add the required attribution. If they don't seem to care, you can go a step further and tell them you will contact the author. If that still doesn't help, then you may actually start contacting me (create an issue on GitHub, or use the contact page on [my site](https://www.dr-lex.be/)).
 
 
 ### Print Settings I've used
