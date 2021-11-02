@@ -71,7 +71,8 @@ This is not a demanding print. If this is one of the first things you're printin
 
 ## Remarks
 
-* This model was designed using a mesh-based program. Mesh-based models cannot be generally converted into a volume-based representation as used by technical CAD programs, so please don't ask me for a STEP file or whatever other CAD format of this model, because there is none. If you want to modify the model, the most sensible approach is to use a mesh-based editor.
+* This model was designed using Blender, which is a mesh-based program. Mesh-based models cannot be generally converted into a volume-based representation as used by technical CAD programs, so please don't ask me for a STEP file or whatever other CAD format of this model, because there is none. If you want to modify the model, the most sensible approach is to use a mesh-based editor.
+* The Blender source file is available (requires 2.92 or newer). The model is constructed using Boolean operators and will not be entirely clean when merely applying the operations. (This is because some of the surfaces in union operations are coplanar, which is generally a bad idea but difficult to avoid in this case.) Especially if you plan to further edit the mesh after applying the Booleans, I recommend to clean it up first.
 
 
 ## Hinge Design
