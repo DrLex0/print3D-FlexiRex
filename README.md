@@ -75,6 +75,18 @@ This is not a demanding print. If this is one of the first things you're printin
 * The Blender source file is available (requires 2.92 or newer). The model is constructed using Boolean operators and will not be entirely clean when merely applying the operations. (This is because some of the surfaces in union operations are coplanar, which is generally a bad idea but difficult to avoid in this case.) Especially if you plan to further edit the mesh after applying the Booleans, I recommend to clean it up first.
 
 
+## History
+
+This is what I could find by tracing back remix sources and searching models on Thingiverse. There might be older history, or things that I missed. (I will not list the countless further remixes that have been made from the model that is hosted in this repository.)
+
+1. On *January 06, 2015,* **zheng3** published the [Robber Rex](https://www.thingiverse.com/thing:613445), intended as a replacement for the ‘robber’ player piece in the Settlers of Catan game. Although it was a single solid piece and much wider than the Flexi Rex, it already had the general shape.
+2. On *July 17, 2015,* **zheng3** published the [Flexy Rex](https://www.thingiverse.com/thing:929413), a remix of his Robber Rex made flexible by means of a thin spine connecting the model sliced into thin plates.
+3. On *September 08, 2016,* **Kirbs** published the original [Flexi Rex](https://www.thingiverse.com/thing:1759297), because zheng3's Flexy Rex proved too fragile for being handled by kids. It was redesigned from scratch albeit still with the same overall looks, but narrower and with a shackle construction instead of the flexible spine.
+4. On *March 20, 2017,* **airfish** published [a remix of Kirbs' Flexi Rex](https://www.thingiverse.com/thing:2189652), replacing the inset eyes with a through hole.
+5. On *December 30, 2017,* **DrLex** published the [Flexi Rex with stronger links](https://www.thingiverse.com/thing:2738211) based on airfish's remix, with improved shackles (and a minor tweak to the spines on the back), because his print of the Flexi Rex still broke too easily when handled by kids. This version of the model became hugely popular, maybe thanks to its increased robustness.<br>
+   On March 21, 2020, this model was migrated to GitHub because Thingiverse has become too much of a pain to work with. The Thingiverse page still exists but will not be updated anymore.
+
+
 ## Hinge Design
 
 If you want to create your own flexible model, **by all means copy the hinge design from this one, or at least use the hinge dimensions image as a guideline.** I see way too many ‘flexi’ models that still use the weak hinge design from the original model, or other shapes that have way too little material in the most crucial locations, often the end of the shackle or ‘ring’ is too thin. Make sure to provide as much material around the axle hole as possible, instead of cutting away as much as possible as some designers tend to do. You won't gain any flexibility by providing more clearance than needed, the model will only become weaker.
