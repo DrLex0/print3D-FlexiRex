@@ -48,6 +48,9 @@ Read this, and you'll see that you probably have no need to contact me at all.
 * Q: **“So, I can start selling prints of this model without even having to spend time on figuring out how to contact the author?”**<br>
   A: **Yes indeed,** thanks to the CC-BY-SA license under which it is released, at the condition that you comply with the conditions explained below.
 
+* Q: **“Can I buy the exclusive copyright on this model?”**<br>
+  A: **Hell no.** This model is for the 3D printing community and it will stay that way. You might as well ask Linus Torvalds for the copyright on the Linux kernel.
+
 
 ### What does “attribution” mean?
 
@@ -75,14 +78,15 @@ Also note that selling the STL file for money is perfectly legal. It would be ki
 
 ### Print Settings I've used
 
-0.2 mm layers,
-15% infill,
-no supports and no raft,
-rigid.ink silver ABS
+* 0.2 mm layers,
+* 3 perimeters,
+* 15% infill,
+* solid infill threshold 8 mm²,
+* no supports and no raft.
 
-Pretty much any material should work. You could print it in a flexible filament to make it even more flexible and pretty much impossible to destroy, but plain PLA is probably easiest.
+The print in the photos was created with rigid.ink silver ABS, but pretty much any material should work. You could print it in a flexible filament to make it even more flexible and pretty much impossible to destroy, but plain PLA is probably easiest.
 
-No supports needed. I used 3 perimeters to ensure the hinges are strong, this is much preferred over trying to obtain strength through infill. If you use too high infill, the model may become poorly balanced due to the head being too heavy. If you want to improve stability, use a higher infill for the piece with the legs if you can.
+No supports needed. I used 3 perimeters to ensure the hinges are strong, this is much preferred over trying to obtain strength through infill. If you use too high infill, the model may become poorly balanced due to the head being too heavy. If you want to improve stability, set a higher infill (like 40%) for the legs piece and the one below it (pieces 4 and 5 when counting from the tail end).
 
 If you have problems with parts curling up and the print head knocking them over, try to apply more cooling (but don't exaggerate, because too much cooling will result in a weaker print).
 
@@ -90,10 +94,14 @@ This should move freely right after you take it off the build plate. If you prin
 
 This is not a demanding print. If this is one of the first things you're printing and it fails, expect other things to fail as well.
 
+### Post your Makes
+
+One of the nicest aspects about sharing 3D printable models, is seeing photos of other people printing the model. If you want to share a photo, see the Discussions tab (Github account required).
+
 
 ## Remarks
 
-* This model was designed using Blender, which is a mesh-based program. Mesh-based models cannot be generally converted into a volume-based representation as used by technical CAD programs, so please don't ask me for a STEP file or whatever other CAD format of this model, because there is none. If you want to modify the model, the most sensible approach is to use a mesh-based editor.
+* This model was designed using Blender, which is a mesh-based program. Mesh-based models cannot be generally converted into a volume-based representation as used by technical CAD programs, so please don't ask me for a STEP file or whatever other CAD format of this model, because there is none ([more info here](https://www.dr-lex.be/3d-printing/step-versus-mesh.html)). If you want to modify the model, the most sensible approach is to use a mesh-based editor.
 * The Blender source file is available (requires 2.92 or newer). The model is constructed using Boolean operators and will not be entirely clean when merely applying the operations. (This is because some of the surfaces in union operations are coplanar, which is generally a bad idea but difficult to avoid in this case.) Especially if you plan to further edit the mesh after applying the Booleans, I recommend to clean it up first.
 
 
