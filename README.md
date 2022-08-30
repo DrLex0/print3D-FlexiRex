@@ -14,7 +14,8 @@ This is another remix of Kirbs' Flexi Rex ([Thingiverse thing:1759297](https://w
 
 ## Description and Instructions
 
-This is the Flexi Rex, which now seems to have joined the club of things anyone having bought a 3D printer ought to print at least once. This is not the first version of this dinosaur. All credit for the original design and appearance goes to [Kirbs](https://www.thingiverse.com/Kirbs/about). My print of Kirbs' model was not very kid-proof however: one of the links broke after some rough handling. Hence in this updated version I made all links more robust. This means this model can probably be printed even smaller than the original ones before the links become too weak. Of course you can also scale it up at will.
+This is the Flexi Rex, which now seems to have joined the club of things anyone having bought a 3D printer ought to print at least once. This is not the first version of this dinosaur. All credit for the original design and appearance goes to [Kirbs](https://www.thingiverse.com/Kirbs/about). (Full history of this model can be found below.) My print of Kirbs' model was not very kid-proof however: one of the links broke after some rough handling. Hence in this updated version I made all links more robust. This means this model can probably be printed even smaller than the original ones before the links become too weak. Of course you can also scale it up at will.<br>
+The latest version of this model also has some tweaks that make it more balanced.
 
 ‘Dual’ files are also available if you have a multi-material printer and want to do a dual material print with alternating colors.
 
@@ -71,9 +72,9 @@ Notice to anyone buying prints of this model: it contains about 70 cents worth o
 
 ### I found someone violating the license, now what?
 
-If you see this model or prints of it being sold somewhere without the required attribution, don't try to contact me right away. I do not have the time or means to hunt down all the unscrupulous people who want to make it seem as if they created this model and sell it at an exaggerated price. Also don't try to report it as a copyright violation yourself, this usually has to be done by the author of the work themself. It would be most helpful if you would first notify the author of the sales page and point them to this GitHub page. Ask them to add the required attribution. If they do not seem to care, you can go a step further and tell them you will contact the author. If that still doesn't help, then you may actually start contacting me (create an issue on GitHub, or use the contact page on [my site](https://www.dr-lex.be/)).
+If you see this model or prints of it being sold somewhere without the required attribution, don't try to contact me right away. I do not have the time or means to hunt down all unscrupulous people who want to make it seem as if they created this model and sell it at an exaggerated price. Also don't try to report it as a copyright violation yourself, this usually has to be done by the author of the work themself. It would be most helpful if you would first notify the author of the sales page and point them to this GitHub page. Ask them to add the required attribution. If they do not seem to care, you can go a step further and tell them you will contact the author. If that still doesn't help, then you may actually start contacting me (create an issue on GitHub, or use the contact page on [my site](https://www.dr-lex.be/)).
 
-Also note that selling the STL file for money is perfectly legal. It would be kind of dumb, but is allowed *if proper attribution is provided* on the page where the model is sold. The attribution would of course require to provide a clearly visible link to this page which provides the same download for free, and makes it obvious that the seller is a prick, but being a prick is not prohibited by the license.
+Also note that selling the STL file for money is perfectly legal. It would be kind of dumb, but is allowed *if proper attribution is provided* on the page where the model is sold. The attribution would of course require to provide a clearly visible link to this page which provides the same download for free, making it obvious that the seller is a prick, but being a prick is not prohibited by the license.
 
 
 ### Print Settings I've used
@@ -86,9 +87,10 @@ Also note that selling the STL file for money is perfectly legal. It would be ki
 
 The print in the photos was created with rigid.ink silver ABS, but pretty much any material should work. You could print it in a flexible filament to make it even more flexible and pretty much impossible to destroy, but plain PLA is probably easiest.
 
-No supports needed. I used 3 perimeters to ensure the hinges are strong, this is much preferred over trying to obtain strength through infill. If you use too high infill, the model may become poorly balanced due to the head being too heavy. If you want to improve stability, set a higher infill (like 40%) for the legs piece and the one below it (pieces 4 and 5 when counting from the tail end).
+No supports needed. I used 3 perimeters to ensure the hinges are strong, this is much preferred over trying to obtain strength through infill. If you use too high infill, the model may become poorly balanced due to the head being too heavy.<br>
+The first version of this model tended to be a bit unbalanced and it used to be advisable to set a higher infill for the legs piece and the one below it (pieces 4 and 5 when counting from the tail end). This is no longer necessary since the 2022/08/30 update.
 
-If you have problems with parts curling up and the print head knocking them over, try to apply more cooling (but don't exaggerate, because too much cooling will result in a weaker print).
+If you have problems with parts curling up and the extruder knocking them over, try to apply more cooling, but don't exaggerate, because too much cooling will result in a weaker print.
 
 This should move freely right after you take it off the build plate. If you print ABS with hairspray on a glass bed, the Rex will likely spontaneously jump into a random pose all by itself when it pops off the plate after cooling down. If you need to use force to free the hinges, you still have some optimization work to do on your printing technique.
 
@@ -96,13 +98,13 @@ This is not a demanding print. If this is one of the first things you're printin
 
 ### Post your Makes
 
-One of the nicest aspects about sharing 3D printable models, is seeing photos of other people printing the model. If you want to share a photo, see the Discussions tab (Github account required).
+One of the nicest aspects about sharing 3D printable models, is seeing photos of other people printing the model. If you want to share a photo, see the Discussions tab (Github account required), or use the [Printables page for this model](https://www.printables.com/model/46241-flexi-rex-with-stronger-links).
 
 
 ## Remarks
 
-* This model was designed using Blender, which is a mesh-based program. Mesh-based models cannot be generally converted into a volume-based representation as used by technical CAD programs, so please don't ask me for a STEP file or whatever other CAD format of this model, because there is none ([more info here](https://www.dr-lex.be/3d-printing/step-versus-mesh.html)). If you want to modify the model, the most sensible approach is to use a mesh-based editor.
-* The Blender source file is available (requires 2.92 or newer). The model is constructed using Boolean operators and will not be entirely clean when merely applying the operations. (This is because some of the surfaces in union operations are coplanar, which is generally a bad idea but difficult to avoid in this case.) Especially if you plan to further edit the mesh after applying the Booleans, I recommend to clean it up first.
+* This model was designed using *Blender*, which is a mesh-based program. Mesh-based models cannot be generally converted into a volume-based representation as used by technical CAD programs, so please don't ask me for a STEP file or whatever other CAD format of this model, because there is none ([more info here](https://www.dr-lex.be/3d-printing/step-versus-mesh.html)). If you want to modify the model, the most sensible approach is to use a mesh-based editor.
+* The Blender source file is available (requires 3.0 or newer). The model is constructed using Boolean operators and will not be entirely clean when merely applying the operations. (This is because some of the surfaces in union operations are coplanar, which is generally a bad idea but difficult to avoid in this case.) Especially if you plan to further edit the mesh after applying the Booleans, I recommend to clean it up first.
 
 
 ## History
@@ -115,6 +117,15 @@ This is what I could find by tracing back remix sources and searching models on 
 4. On *March 20, 2017,* **airfish** published [a remix of Kirbs' Flexi Rex](https://www.thingiverse.com/thing:2189652), replacing the inset eyes with a through hole.
 5. On *December 30, 2017,* **DrLex** published the [Flexi Rex with stronger links](https://www.thingiverse.com/thing:2738211) based on airfish's remix, with improved shackles (and a minor tweak to the spines on the back), because his print of the Flexi Rex still broke too easily when handled by kids. This version of the model became hugely popular, maybe thanks to its increased robustness.<br>
    On March 21, 2020, this model was migrated to GitHub because Thingiverse has become too much of a pain to work with. The Thingiverse page still exists but will not be updated anymore.
+
+
+## Model Updates
+
+So far, there has only been one major update to this improved model since it was first published on 2017/12/30:
+
+### 2022/08/30
+A common complaint was that the Rex had a tendency to faceplant due to the head being too heavy. I fixed this by slightly bringing the feet forward.<br>
+I also noticed that some people were able to balance the Rex on its tail, but this was very borderline and only really feasible when under-extruding. Therefore I further tweaked the model to increase the chance that it can stand on its tail, although success still depends on your print settings. If you seem unable to do this balancing trick by only a tiny margin, you might get that bit of needed extra flex by wiggling the print while bending it backwards.
 
 
 ## Hinge Design
