@@ -44,7 +44,7 @@ Read this, and you'll see that you probably have no need to contact me at all.
   A: **Yes,** if you provide attribution, by linking to this GitHub page on the webpage where the video or photo is hosted.
 
 * Q: **“Can I modify this model and sell the modified model or prints of it?”**<br>
-  A: **Yes,** but you must provide (guess what) *attribution,* and also make your modified model available under the same Creative Commons license, or a stricter license.
+  A: **Yes,** but you must provide (guess what) *attribution,* and also make your modified model available under the same Creative Commons BY-SA license, or a compatible license.
 
 * Q: **“So, I can start selling prints of this model without even having to spend time on figuring out how to contact the author?”**<br>
   A: **Yes indeed,** thanks to the CC-BY-SA license under which it is released, at the condition that you comply with the conditions explained below.
@@ -61,7 +61,7 @@ This model is released under a *Creative Commons - Attribution - Share Alike* li
    In the most minimal form, it suffices to make a hyperlink “[print3D-FlexiRex by DrLex0 on GitHub](https://github.com/DrLex0/print3D-FlexiRex)” that leads to this GitHub repository. You should also, and perhaps in the first place, refer to the original model from [Kirbs (thing:1759297)](https://www.thingiverse.com/thing:1759297).<br>
    The attribution message must not be hidden by silly tricks such as an unreadable font or putting a lot of whitespace before it.<br>
    As for paper print-outs, simplest is to use the ready-to-print attribution cards in PDF format that can be found in this repository.<br>
-* **‘Share Alike’** means that if you make modifications to the 3D model and sell or give away physical representations of that modified model, either 3D printed or manufactured throug other means, you must publish this modified 3D model or the source files for the other production method, and it must be licensed under the same CC BY-SA license or a compatible license. Of course wherever you publish or sell your modified model, there must also be a visible link back to the origin (i.e., this page). Again, this costs you nothing except a few minutes of your time.<br>
+* **‘Share Alike’** means that if you make modifications to the 3D model and sell or give away physical representations of that modified model, either 3D printed or manufactured through other means, you must publish this modified 3D model and/or the source files for the other production method, and it must be licensed under the same CC BY-SA license or a compatible license. Of course wherever you publish or sell your modified model, there must also be a visible link back to the origin (i.e., this page). Again, this costs you nothing except a few minutes of your time.<br>
     Yes indeed, this makes it hard to commercialize any product based on this model, but that is the whole point of an open source license like this.<br>
     I will allow deviating from the strict SA requirements and also allow a remix to be published under a more restrictive license (for instance BY-ND or BY-NC-ND), if the remix differs sufficiently from the original and is tailored to a specific situation; contact me if you are unsure about this.
 
@@ -89,7 +89,7 @@ I'm calling out to the whole 3D printing community here: there are a few things 
 - If you know someone who considers buying this clone and you have a 3D printer, offer them 4 Flexi Rexes in any color they like. It will still cost less than this company charges for a single copy of their clone.
 - If you bump into online shops where this clone is being sold, team up with friends to do the following over and over again:
   * If you can ask product questions: ask where the attribution is, and where they make their modified 3D model available and under what license.
-  * If you have the means to place a review: put a link to this GitHub page in a “review.” Stay polite, insults never work in cases like these. Occasionally, one of these “reviews” should mention that those reviews cannot be considered proper attribution.
+  * If you have the means to place a review: put a link to this GitHub page in a “review.” Stay polite, insults never work in cases like these. Occasionally, one of these “reviews” should mention that those reviews cannot be considered proper attribution, they still must add explicit attribution on their product page.
 - You could attempt to report the seller with the store as a violator of the CC license, but you'll probably find out that this is far from trivial. Many companies and stores are still stuck in a 20th century model of copyright and licensing, and will request arcane documents and incantations that do not exist in the universe of the Flexi Rex.
 - If you are a lawyer and are willing to help out with this, that would be nice. If you can team up with other lawyers, especially those who have experience with cases like these, that would be really nice. However, since this is only a hobby project of mine, I alone am not willing to spend much time and especially not much money on this. Either you would need to be willing to do it for the sake of the 3D printing and more generally open source communities, or someone would need to start some crowd funding project to pay for legal costs.
 
