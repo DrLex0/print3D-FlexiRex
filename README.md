@@ -100,7 +100,8 @@ I'm calling out to the whole 3D printing community here: there are a few things 
 * 3 perimeters,
 * 15% infill,
 * solid infill threshold 8 mm²,
-* no supports and no raft.
+* 5 top layers and 4 bottom layers,
+* no supports and no raft needed.
 
 The print in the photos was created with rigid.ink silver ABS, but pretty much any material should work. You could print it in a flexible filament to make it even more flexible and pretty much impossible to destroy, but plain PLA is probably easiest.
 
@@ -138,11 +139,14 @@ This is what I could find by tracing back remix sources and searching models on 
 
 ## Model Updates
 
-So far, there has only been one major update to this improved model since it was first published on 2017/12/30:
+There have only been a few major updates to this improved model since it was first published on 2017/12/30:
 
 ### 2022/08/30
 A common complaint was that the Rex had a tendency to faceplant due to the head being too heavy. I fixed this by slightly bringing the feet forward.<br>
 I also noticed that some people were able to balance the Rex on its tail, but this was very borderline and only really feasible when under-extruding. Therefore I further tweaked the model to increase the chance that it can stand on its tail, although success still depends on your print settings. If you seem unable to do this balancing trick by only a tiny margin, you might get that bit of needed extra flex by wiggling the print while bending it backwards.
+
+### 2022/12/26
+Created the Flexier Rex that has some extra flex in the sideways direction. See the `Flexier-Rex` directory.
 
 
 ## Hinge Design
