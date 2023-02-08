@@ -49,6 +49,9 @@ Read this, and you'll see that you probably have no need to contact me at all.
 * Q: **“So, I can start selling prints of this model without even having to spend time on figuring out how to contact the author?”**<br>
   A: **Yes indeed,** thanks to the CC-BY-SA license under which it is released, at the condition that you comply with the conditions explained below.
 
+* Q: **“I found a remix of the Flexi Rex that has a mere Attribution or even Public Domain license, can I rely on those to bypass the whole CC BY-SA licensing thing?”**<br>
+  A: **No.** The reason why there are so many remixes with licenses that violate the BY-SA conditions, is that websites like Thingiverse and Printables make it way too easy to ‘whitewash’ a model's license when remixing it. The BY-SA license clearly states that each derivative must also have a BY-SA or compatible license. Hence the actual license you see assigned to a remix is actually *irrelevant* and is by definition BY-SA because that is the license of Kirbs' original model. This kind of reasoning would likely also be followed in case there is ever a legal dispute, so don't gamble on dodgy loopholes like these.
+
 * Q: **“Can I buy the exclusive copyright on this model?”**<br>
   A: **Hell no.** This model is for the 3D printing community and it will stay that way. You might as well ask Linus Torvalds for the copyright on the Linux kernel.
 
