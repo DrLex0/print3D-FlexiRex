@@ -98,8 +98,11 @@ I'm calling out to the whole 3D printing community here: there are a few things 
 - If you are a lawyer and are willing to help out with this, that would be nice. If you can team up with other lawyers, especially those who have experience with cases like these, that would be really nice. However, since this is only a hobby project of mine, I alone am not willing to spend much time and especially not much money on this. Either you would need to be willing to do it for the sake of the 3D printing and more generally open source communities, or someone would need to start some crowd funding project to pay for legal costs.
 
 
-### Print Settings I've used
+### Recommended Print Settings
 
+To end up with a strong print, it is important to use a sufficient number of perimeters (outer walls). This is much preferred over trying to obtain strength through infill, because the model is designed assuming a low infill to be well-balanced. If you use too high infill, the Rex may have a tendency to faceplant due to the head being too heavy.
+
+At 100% scale and with a wall extrusion width of about 0.4 mm, the recommended settings are:
 * 0.2 mm layers,
 * 3 perimeters,
 * 15% infill,
@@ -107,10 +110,11 @@ I'm calling out to the whole 3D printing community here: there are a few things 
 * 5 top layers and 4 bottom layers,
 * no supports and no raft needed.
 
-The print in the photos was created with rigid.ink silver ABS, but pretty much any material should work. You could print it in a flexible filament to make it even more flexible and pretty much impossible to destroy, but plain PLA is probably easiest.
+If you scale up the model, you should also scale up the number of perimeters and/or their width to ensure the model maintains its strength.
 
-No supports needed. I used 3 perimeters to ensure the hinges are strong, this is much preferred over trying to obtain strength through infill. If you use too high infill, the model may become poorly balanced due to the head being too heavy.<br>
-The first version of this model tended to be a bit unbalanced and it used to be advisable to set a higher infill for the legs piece and the one below it (pieces 4 and 5 when counting from the tail end). This is no longer necessary since the 2022/08/30 update.
+If you want to print this in SLA or another technology that typically produces 100% solid parts, you will have to somehow reduce the weight of the upper pieces and especially the head, otherwise it will be very eager to faceplant. The optimal way for doing this may vary with the printing technology. To make the model as stable as possible, add more mass (for instance through extra infill) to the legs piece and the ones below it (pieces 1 to 5 when counting from the tail end), and remove mass from the upper pieces (for instance through lower infill or voids).
+
+The print in the photos was created with rigid.ink silver ABS, but pretty much any material should work. You could print it in a flexible filament to make it even more flexible and pretty much impossible to destroy, but plain PLA is probably easiest.
 
 If you have problems with parts curling up and the extruder knocking them over, try to apply more cooling, but don't exaggerate, because too much cooling will result in a weaker print.
 
@@ -126,7 +130,7 @@ One of the nicest aspects about sharing 3D printable models, is seeing photos of
 ## Remarks
 
 * This model was designed using *Blender*, which is a mesh-based program. Mesh-based models cannot be generally converted into a volume-based representation as used by technical CAD programs, so please don't ask me for a STEP file or whatever other CAD format of this model, because there is none ([more info here](https://www.dr-lex.be/3d-printing/step-versus-mesh.html)). If you want to modify the model, the most sensible approach is to use a mesh-based editor.
-* The Blender source file is available (requires 3.0 or newer). The model is constructed using Boolean operators and will not be entirely clean when merely applying the operations. (This is because some of the surfaces in union operations are coplanar, which is generally a bad idea but difficult to avoid in this case.) Especially if you plan to further edit the mesh after applying the Booleans, I recommend to clean it up first.
+* The Blender source file is available (requires 3.2 or newer). The model is constructed using Boolean operators and will not be entirely clean when merely applying the operations. (This is because some of the surfaces in union operations are coplanar, which is generally a bad idea but difficult to avoid in this case.) Especially if you plan to further edit the mesh after applying the Booleans, I recommend to clean it up first.
 
 
 ## History
@@ -151,6 +155,9 @@ I also noticed that some people were able to balance the Rex on its tail, but th
 
 ### 2022/12/26
 Created the Flexier Rex that has some extra flex in the sideways direction. See the `Flexier-Rex` directory.
+
+### 2024/04/01
+Small tweaks to the tail pieces to make it even easier to balance the Rex on its tail.
 
 
 ## Hinge Design
