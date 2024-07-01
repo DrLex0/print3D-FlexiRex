@@ -132,7 +132,10 @@ One of the nicest aspects about sharing 3D printable models, is seeing photos of
 ## Remarks
 
 * This model was designed using *Blender*, which is a mesh-based program. Mesh-based models cannot be generally converted into a volume-based representation as used by technical CAD programs, so please don't ask me for a STEP file or whatever other CAD format of this model, because there is none ([more info here](https://www.dr-lex.be/3d-printing/step-versus-mesh.html)). If you want to modify the model, the most sensible approach is to use a mesh-based editor.
-* The Blender source file is available (requires 3.2 or newer). The model is constructed using Boolean operators and will not be entirely clean when merely applying the operations. (This is because some of the surfaces in union operations are coplanar, which is generally a bad idea but difficult to avoid in this case.) Especially if you plan to further edit the mesh after applying the Booleans, I recommend to clean it up first.
+* The Blender source file is available (requires 3.2 or newer). The model is constructed using Boolean operators.
+  - To ‘render’ the classic Rex, just apply all modifiers to each part.
+  - To produce the ‘Flexier’ variant: in the Boolean modifiers of all ‘Shackle’ parts, replace the ‘Hole’ object by the ‘Slot’ object of the same number.
+  - Even though the Blender model has been greatly improved in the latest edition by avoiding co-planar surfaces, the mesh will still not be 100% clean after applying the modifiers. To end up with a clean manifold mesh, it should suffice to select all vertices, then perform a ‘Merge by Distance,’ and then repeat ‘Degenerate Dissolve’ until it no longer removes anything.
 
 
 ## History
@@ -160,6 +163,9 @@ Created the Flexier Rex that has some extra flex in the sideways direction. See 
 
 ### 2024/04/01
 Small tweaks to the tail pieces to make it even easier to balance the Rex on its tail.
+
+### 2024/07/01
+No changes to the STLs, but the Blender source file has been improved to get rid of co-planar surfaces that required tedious manual clean-up after applying Boolean modifiers. Some clean-up is still required, but it only involves repeating a few operations, see instructions above.
 
 
 ## Hinge Design
