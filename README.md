@@ -14,7 +14,7 @@ This is another remix of Kirbs' Flexi Rex ([Thingiverse thing:1759297](https://w
 
 ## Description and Instructions
 
-This is the Flexi Rex, which now seems to have joined the club of things anyone having bought a 3D printer ought to print at least once. This is not the first version of this dinosaur. All credit for the original design and appearance goes to [Kirbs](https://www.thingiverse.com/Kirbs/about). (Full history of this model can be found below.) My print of Kirbs' model was not very kid-proof however: one of the links broke after some rough handling. Hence in this updated version I made all links more robust. This means this model can probably be printed even smaller than the original ones before the links become too weak. Of course you can also scale it up at will.<br>
+This is the Flexi Rex, which now seems to have joined the club of things anyone having bought a 3D printer ought to print at least once. This is not the first version of this dinosaur. All credit for the original design and appearance goes to [Kirbs](https://www.thingiverse.com/Kirbs/about). (Full history of this model can be found below.) My print of Kirbs' model was not very kid-proof however: one of the links broke after some rough handling. Hence in this updated version I made all links more robust. This means this model can probably be printed even smaller than the original ones before the links become too weak. Of course you can also scale it up at will.  
 The latest version of this model also has some tweaks that make it more balanced.
 
 ‘Dual’ files are also available if you have a multi-material printer and want to do a dual material print with alternating colors.
@@ -28,47 +28,49 @@ If you want to create your own flexible model, make sure to check the **Hinge De
 
 Read this, and you'll see that you probably have no need to contact me at all.
 
-* Q: **“I want to sell prints of this model, do I need your explicit permission?”**<br>
+* Q: **“I want to sell prints of this model, do I need your explicit permission?”**  
   A: **No,** but you must provide *attribution,* which means put a clearly visible link to this GitHub page on both your web store page and on a piece of paper included with printed objects. [See below](#what-does-attribution-mean) for instructions.
 
-* Q: **“Do I need to share profits if I sell this?”**<br>
+* Q: **“Do I need to share profits if I sell this?”**  
   A: **No.** All you need to do is provide the attribution as explained below. You're free to [donate](https://www.dr-lex.be/about/#contact) to show gratitude, but it is not required.
 
-* Q: **“I want to sell this but I don't want to do the attribution thing, can I bypass it by offering to share profits after all?”**<br>
+* Q: **“I want to sell this but I don't want to do the attribution thing, can I bypass it by offering to share profits after all?”**  
   A: **No.** Just provide the attribution, there is nothing difficult about it.
 
-* Q: **“Can I give away prints of this model?”**<br>
+* Q: **“Can I give away prints of this model?”**  
   A: **Yes,** but you also need to provide attribution on a piece of paper included with each printed object.
 
-* Q: **“Can I use this model in a video or photo on a website for demonstration purposes?”**<br>
+* Q: **“Can I use this model in a video or photo on a website for demonstration purposes?”**  
   A: **Yes,** if you provide attribution, by linking to this GitHub page on the webpage where the video or photo is hosted.
 
-* Q: **“Can I modify this model and sell the modified model or prints of it?”**<br>
+* Q: **“Can I modify this model and sell the modified model or prints of it?”**  
   A: **Yes,** but you must provide (guess what) *attribution,* and also make your modified model available under the same Creative Commons BY-SA license, or a compatible license.
 
-* Q: **“So, I can start selling prints of this model without even having to spend time on figuring out how to contact the author?”**<br>
+* Q: **“So, I can start selling prints of this model without even having to spend time on figuring out how to contact the author?”**  
   A: **Yes indeed,** thanks to the CC-BY-SA license under which it is released, at the condition that you comply with the conditions explained below.
 
-* Q: **“I found a remix of the Flexi Rex that has a mere Attribution or even Public Domain license, can I rely on those to bypass the whole CC BY-SA licensing thing?”**<br>
+* Q: **“I found a remix of the Flexi Rex that has a mere Attribution or even Public Domain license, can I rely on those to bypass the whole CC BY-SA licensing thing?”**  
   A: **No.** The reason why there are so many remixes with licenses that violate the BY-SA conditions, is that websites like Thingiverse and Printables make it way too easy to ‘whitewash’ a model's license when remixing it. The BY-SA license clearly states that each derivative must also have a BY-SA or compatible license. Hence the actual license you see assigned to a remix is actually *irrelevant* and is by definition BY-SA because that is the license of Kirbs' original model. This kind of reasoning would likely also be followed in case there is ever a legal dispute, so don't gamble on dodgy loopholes like these.
 
-* Q: **“Can I buy the exclusive copyright on this model?”**<br>
+* Q: **“Can I buy the exclusive copyright on this model?”**  
   A: **Hell no.** This model is for the 3D printing community and it will stay that way. You might as well ask Linus Torvalds for the copyright on the Linux kernel.
 
+* Q: **“I have paid someone a “license fee” for this model. Have I been scammed?”**  
+  A: Yes, all the above answers prove that you have been *bamboozled.*
 
 ### What does “attribution” mean?
 
 This model is released under a *Creative Commons - Attribution - Share Alike* license. The details can be [found on the CC website](https://creativecommons.org/licenses/by-sa/4.0/) but in a nutshell, my interpretation of this license is that you are pretty much free to do anything with this model including selling prints **if you comply with the following conditions:**
 
-* **‘Attribution’** means you must always provide *a clearly visible reference* to the source of the model, both on the webpage where you sell or display the model, and on a piece of paper included with each physical product. **This is a very easy requirement** that does not incur any significant extra cost. Here is an example of a full attribution message:<br>
-  “[Flexi Rex with stronger links by DrLex](https://github.com/DrLex0/print3D-FlexiRex) on GitHub, released under a [*Creative Commons Attribution - Share Alike* license](https://creativecommons.org/licenses/by-sa/4.0/), based on [Flexi Rex by Kirbs](https://www.thingiverse.com/thing:1759297).”<br>
-  For the required attribution message on your website/store, simply copy the above line, ensure the hyperlink to this GitHub page is preserved (or re-add it), and you're done.<br>
-  If you are somehow tight on space, the most minimal attribution could be a hyperlink “[print3D-FlexiRex by DrLex0 on GitHub - CC BY-SA](https://github.com/DrLex0/print3D-FlexiRex)” leading to this GitHub repository, but the full format shown above is preferred. If there really is no way to provide hyperlinks, the above line of text suffices because it contains enough information for people to find this source page, but you must provide links when possible.<br>
-  When showing the model or prints of it in **photos** or in a **video,** the attribution message must at least be included as a text overlay or in the video's end credits. Optionally, the text with link can also be placed on the webpage that contains the photo/video.<br>
-  The attribution message must not be hidden by silly tricks such as an unreadable font or putting a lot of whitespace before it.<br>
+* **‘Attribution’** means you must always provide *a clearly visible reference* to the source of the model, both on the webpage where you sell or display the model, and on a piece of paper included with each physical product. **This is a very easy requirement** that does not incur any significant extra cost. Here is an example of a full attribution message:  
+  “[Flexi Rex with stronger links by DrLex](https://github.com/DrLex0/print3D-FlexiRex) on GitHub, released under a [*Creative Commons Attribution - Share Alike* license](https://creativecommons.org/licenses/by-sa/4.0/), based on [Flexi Rex by Kirbs](https://www.thingiverse.com/thing:1759297).”  
+  For the required attribution message on your website/store, simply copy the above line, ensure the hyperlink to this GitHub page is preserved (or re-add it), and you're done.  
+  If you are somehow tight on space, the most minimal attribution could be a hyperlink “[print3D-FlexiRex by DrLex0 on GitHub - CC BY-SA](https://github.com/DrLex0/print3D-FlexiRex)” leading to this GitHub repository, but the full format shown above is preferred. If there really is no way to provide hyperlinks, the above line of text suffices because it contains enough information for people to find this source page, but you must provide links when possible.  
+  When showing the model or prints of it in **photos** or in a **video,** the attribution message must at least be included as a text overlay or in the video's end credits. Optionally, the text with link can also be placed on the webpage that contains the photo/video.  
+  The attribution message must not be hidden by silly tricks such as an unreadable font or putting a lot of whitespace before it.  
   As for paper print-outs to be included with physical sold prints, put a similar message on a piece of paper. Print it, write it, 3D print it, I don't care as long as it's there. Simplest is to use the ready-to-print attribution cards in PDF format that can be found in this repository.
-* **‘Share Alike’** means that if you make modifications to the 3D model and sell or give away physical representations of that modified model, either 3D printed or manufactured through other means, you must publish this modified 3D model and/or the source files for the other production method, and it must be licensed under the same CC BY-SA license or a compatible license. Of course wherever you publish or sell your modified model, there must also be a visible link back to the origin (i.e., this page). Again, this costs you nothing except a few minutes of your time.<br>
-  Yes indeed, this makes it hard to commercialize any product based on this model, but that is the whole point of an open source license like this.<br>
+* **‘Share Alike’** means that if you make modifications to the 3D model and sell or give away physical representations of that modified model, either 3D printed or manufactured through other means, you must publish this modified 3D model and/or the source files for the other production method, and it must be licensed under the same CC BY-SA license or a compatible license. Of course wherever you publish or sell your modified model, there must also be a visible link back to the origin (i.e., this page). Again, this costs you nothing except a few minutes of your time.  
+  Yes indeed, this makes it hard to commercialize any product based on this model, but that is the whole point of an open source license like this.  
   I may allow deviating from the strict SA requirements and also allow a remix to be published under a more restrictive license (for instance BY-ND or BY-NC-ND), if the remix differs sufficiently from the original and is tailored to a specific situation; contact me if you are unsure about this.
 
 As you can see:
@@ -86,7 +88,7 @@ Also note that selling the STL file for money is perfectly legal. It would be ki
 
 ### A company is selling an injection-molded clone of the Flexi Rex, what about that?
 
-Well, as explained above, anyone *can* sell direct or derived copies of this model, but they *must* comply with the CC BY-SA license. This means they would need make their modified 3D model publicly available, and arguably also the design of their injection molds, under the same CC BY-SA or compatible license. They also need to provide attribution.<br>
+Well, as explained above, anyone *can* sell direct or derived copies of this model, but they *must* comply with the CC BY-SA license. This means they would need make their modified 3D model publicly available, and arguably also the design of their injection molds, under the same CC BY-SA or compatible license. They also need to provide attribution.  
 At the time of this writing, it seems they have done neither. This is at another level than an Etsy shop selling 3D prints without attribution, and obviously it sucks. We can be pretty sure that a company having spent a considerable investment on making injection molds, which is mighty expensive and time-consuming, will not easily want to abide by the conditions of a CC-BY license, out of some kind of fear that it might reduce their profits—even though it probably won't.
 
 I'm calling out to the whole 3D printing community here: there are a few things we can do.
@@ -146,7 +148,7 @@ This is what I could find by tracing back remix sources and searching models on 
 2. On *July 17, 2015,* **zheng3** published the [Flexy Rex](https://www.thingiverse.com/thing:929413), a remix of his Robber Rex made flexible by means of a thin spine connecting the model sliced into thin plates.
 3. On *September 08, 2016,* **Kirbs** published the original [Flexi Rex](https://www.thingiverse.com/thing:1759297), because zheng3's Flexy Rex proved too fragile for being handled by kids. It was redesigned from scratch albeit still with the same overall looks, but narrower and with a shackle construction instead of the flexible spine.
 4. On *March 20, 2017,* **airfish** published [a remix of Kirbs' Flexi Rex](https://www.thingiverse.com/thing:2189652), replacing the inset eyes with a through hole.
-5. On *December 30, 2017,* **DrLex** published the [Flexi Rex with stronger links](https://www.thingiverse.com/thing:2738211) based on airfish's remix, with improved shackles (and a minor tweak to the spines on the back), because his print of the Flexi Rex still broke too easily when handled by kids. This version of the model became hugely popular, maybe thanks to its increased robustness.<br>
+5. On *December 30, 2017,* **DrLex** published the [Flexi Rex with stronger links](https://www.thingiverse.com/thing:2738211) based on airfish's remix, with improved shackles (and a minor tweak to the spines on the back), because his print of the Flexi Rex still broke too easily when handled by kids. This version of the model became hugely popular, maybe thanks to its increased robustness.  
    On March 21, 2020, this model was migrated to GitHub because Thingiverse has become too much of a pain to work with. The Thingiverse page still exists but will not be updated anymore.
 
 
@@ -155,7 +157,7 @@ This is what I could find by tracing back remix sources and searching models on 
 There have only been a few major updates to this improved model since it was first published on 2017/12/30:
 
 ### 2022/08/30
-A common complaint was that the Rex had a tendency to faceplant due to the head being too heavy. I fixed this by slightly bringing the feet forward.<br>
+A common complaint was that the Rex had a tendency to faceplant due to the head being too heavy. I fixed this by slightly bringing the feet forward.  
 I also noticed that some people were able to balance the Rex on its tail, but this was very borderline and only really feasible when under-extruding. Therefore I further tweaked the model to increase the chance that it can stand on its tail, although success still depends on your print settings. If you seem unable to do this balancing trick by only a tiny margin, you might get that bit of needed extra flex by wiggling the print while bending it backwards.
 
 ### 2022/12/26
@@ -172,7 +174,7 @@ No changes to the STLs, but the Blender source file has been improved to get rid
 
 If you want to create your own flexible model, **by all means copy the hinge design from this one, or at least use the hinge dimensions image as a guideline.** I see way too many ‘flexi’ models that still use the weak hinge design from the original model, or other shapes that have way too little material in the most crucial locations, often the end of the shackle or ‘ring’ is too thin. Make sure to provide as much material around the axle hole as possible, instead of cutting away as much as possible as some designers tend to do. You won't gain any flexibility by providing more clearance than needed, the model will only become weaker.
 
-![Hinge dimensions](thumbs/Hinge_dimensions.png)<br>
+![Hinge dimensions](thumbs/Hinge_dimensions.png)  
 [Hinge dimensions (🔎 view larger image)](images/Hinge_dimensions.png)
 
 
