@@ -24,6 +24,10 @@ If you want to make a really huge print, [there is an alternative version](https
 If you want to create your own flexible model, make sure to check the **Hinge Design** section below.
 
 
+## Licensing
+
+If you want to print and sell or give away the Flexi Rex, keep in mind that it is released under a [Creative Commons - Attribution - Share Alike license](https://creativecommons.org/licenses/by-sa/4.0/). Below, I explain my interpretation of this license. I'll start out with a quick FAQ section, see the next sections for more details.
+
 ### License clarification: read this before contacting me
 
 Read this, and you'll see that you probably have no need to contact me at all.
@@ -63,29 +67,46 @@ Read this, and you'll see that you probably have no need to contact me at all.
 
 ### What does “attribution” mean?
 
-This model is released under a *Creative Commons - Attribution - Share Alike* license. The details can be [found on the CC website](https://creativecommons.org/licenses/by-sa/4.0/) but in a nutshell, my interpretation of this license is that you are pretty much free to do anything with this model including selling prints **if you comply with the following conditions:**
+The Flexi Rex is released under a *Creative Commons - Attribution - Share Alike* license. Details can be [found on the CC website,](https://creativecommons.org/licenses/by-sa/4.0/) but in a nutshell, my interpretation of this license is that you are pretty much free to do anything with this model including selling prints **if you comply with the following conditions.**
 
-- **‘Attribution’** means you must always provide *a clearly visible reference* to the source of the model. *This is a very easy requirement* that does not incur any significant extra cost.
-  * Here is an example of a full attribution message:  
-    “[Flexi Rex with stronger links by DrLex](https://github.com/DrLex0/print3D-FlexiRex) on GitHub, released under a [*Creative Commons Attribution - Share Alike* license](https://creativecommons.org/licenses/by-sa/4.0/), based on [Flexi Rex by Kirbs](https://www.thingiverse.com/thing:1759297).”  
-    If you are somehow tight on space, the most minimal attribution could be a hyperlink:  
-    “[print3D-FlexiRex by DrLex0 on GitHub - CC BY-SA](https://github.com/DrLex0/print3D-FlexiRex)”  
-    leading to this GitHub repository, but the full format shown above is preferred. If there really is no way to provide hyperlinks, either of the above lines of text suffice because they contain enough information for people to find this source page, but you must provide links when possible.
-  * **When selling or giving away prints of the model,** you must have this visible attribution message *both* on the webpage where you sell the model, *and* on a physical medium (like paper) included with each physical product.  
-    - For the required attribution message on your website/store, simply copy either of the above example lines, and ensure the hyperlink to this GitHub page is preserved (or re-add it).  
-    - For the required physical message that must be included with physical sold or gifted prints, simplest is to use the ready-to-print attribution cards in PDF format that can be found in this repository. You may also hand-write it, 3D print it, carve it on a clay tablet, I don't care. The only thing that matters is that the physical sold or gifted object is accompanied by a physical readable attribution message that contains at least the minimal information from the second example.
-  * **When showing the 3D model or prints of it in photos or in a video** and not selling it, the same kind of attribution message as shown above must be included as a *text overlay* on the photo or in the video, or in the video's end credits. For static photos, if you really don't want to put the message in the photo itself, the text with link may also be placed on the webpage that contains the photo.  
-    The most important thing is that the attribution message is present and clearly visible. For videos, it must appear for at least 1 second. For both video and photos or on webpages, it must not be hidden by silly tricks such as an unreadable font, low contrast, or putting a lot of whitespace before it.
-- **‘Share Alike’** means that if you make modifications to the 3D model and sell or give away physical representations of that modified model, either 3D printed or manufactured through other means, you must publish this modified 3D model and/or the source files for the other production method, and it must be licensed under the same CC BY-SA license or a compatible license. Of course wherever you publish or sell your modified model, there must also be a visible link back to the origin (i.e., this page). Again, this costs you nothing except a few minutes of your time.  
-  Yes indeed, this makes it hard to commercialize any product based on this model, but that is the whole point of an open source license like this.  
-  I may allow deviating from the strict SA requirements and also allow a remix to be published under a more restrictive license (for instance BY-ND or BY-NC-ND), if the remix differs sufficiently from the original and is tailored to a specific situation; contact me if you are unsure about this.
+**‘Attribution’** means you must always provide *a clearly visible reference* to the source of the model. *This is a very easy requirement* that does not incur any significant extra cost.
+
+Here is an example of a full attribution message:  
+“[Flexi Rex with stronger links by DrLex](https://github.com/DrLex0/print3D-FlexiRex) on GitHub, released under a [*Creative Commons Attribution - Share Alike* license](https://creativecommons.org/licenses/by-sa/4.0/), based on [Flexi Rex by Kirbs](https://www.thingiverse.com/thing:1759297).”
+
+If you are somehow tight on space, the most minimal attribution could be a hyperlink:  
+“[print3D-FlexiRex by DrLex0 on GitHub - CC BY-SA](https://github.com/DrLex0/print3D-FlexiRex)”  
+leading to this GitHub repository, but the full format shown above is preferred.
+
+If there really is no way to provide hyperlinks, either of the above lines of text suffice because they contain enough information for people to find this source page, but you must provide links when possible.
+
+#### Practical: what to do when selling prints
+
+*When selling or giving away prints of the Flexi Rex with stronger links,* you must have this visible attribution message *both* on the webpage where you sell the model, *and* on a physical medium (like paper) included with each physical product.  
+  - For the required attribution message on your website/store, simply copy either of the above example lines, and ensure the hyperlink to this GitHub page is preserved (or re-add it).
+  - For the required physical message that must be included with physical sold or gifted prints, simplest is to use the ready-to-print attribution cards in PDF format that can be found in this repository. You may also hand-write it, 3D print it, carve it on a clay tablet, I don't care. The only thing that matters is that the physical sold or gifted object is accompanied by a physical readable attribution message that contains at least the minimal information from the second example.
+
+#### Practical: when displaying this model on a webpage or in a video
+
+*When showing the 3D model or prints of it in photos or in a video* outside the context of selling printed copies, the same kind of attribution message as shown above must be included as a *text overlay* on the photo or in the video, or in the video's end credits. For static photos, if you really don't want to put the message in the photo itself, the text with link may also be placed on the webpage that contains the photo.
+
+The most important thing is that the attribution message is present and clearly visible. For videos, it must appear for at least 1 second. For both video and photos or on webpages, it must not be hidden by silly tricks such as an unreadable font, low contrast, or putting a lot of whitespace before it.
+
+#### Practical: when remixing this model
+
+The **‘Share Alike’** part of the license means that if you **remix** this model, i.e., make noticeable modifications and sell or give away physical representations of this modified model, either 3D printed or manufactured through other means, you must publish this modified 3D model and/or the source files for the other production method, and it must be licensed under the same `CC BY-SA` license or a compatible license.
+
+Remixes are still subject to the **attribution** requirement. When you sell or give away prints of your remix, or display the remixed model, the origin must be attributed as described above. You can change the message to: *“Based on Flexi Rex with stronger links by DrLex.”* You do not need to use the same attribution cards, but it must be obvious that your remix is derived from my model, and must provide a link to this GitHub page.
+
+Yes indeed, these rules make it hard to commercialize any product based on this model, but that is the whole point of an open source license like this.
+
+I may allow deviating from the strict `SA` requirements and also allow a remix to be published under a more restrictive license (for instance `BY-ND` or `BY-NC-ND`), if the remix makes substantial changes and is tailored to a specific situation; contact me if you are unsure about this. (Modifications anyone can perform in something like TinkerCad in a few minutes, do *not* constitute substantial changes.)
+
+### Please don't ask questions already answered here
 
 As you can see:
-1. There is no requirement to ask and obtain my explicit approval **if** you simply follow the conditions of the license. Feel free to drop me a message to notify me that you'll be selling or displaying this model somewhere, but it is not required **if** you comply with the license.
+1. There is no requirement to ask and obtain my explicit approval **if** you simply follow the above rules. Feel free to drop me a message to notify me that you'll be selling or displaying this model somewhere, but it is not required **if** you comply with the license.
 2. There is no need to share profits. Of course you can always [tip me](https://www.dr-lex.be/about/#contact) if you insist on sharing some profits or just want to show some appreciation.
-
-Notice to anyone buying prints of this model: it contains about 70 cents worth of material when printed in a premium filament. Add to this the costs of electricity and perhaps depreciation of printing infrastructure, and a bit of profit margin, and you might end up with about $2. Anyone who pays much more than that for a print is being ripped off.
-
 
 ### I found someone violating the license, now what?
 
@@ -109,7 +130,7 @@ I'm calling out to the whole 3D printing community here: there are a few things 
 - If you are a lawyer and are willing to help out with this, that would be nice. If you can team up with other lawyers, especially those who have experience with cases like these, that would be really nice. However, since this is only a hobby project of mine, I alone am not willing to spend much time and especially not much money on this. Either you would need to be willing to do it for the sake of the 3D printing and more generally open source communities, or someone would need to start some crowd funding project to pay for legal costs.
 
 
-### Recommended Print Settings
+## Recommended Print Settings
 
 To end up with a strong print, it is important to use a sufficient number of perimeters (outer walls). This is much preferred over trying to obtain strength through infill, because the model is designed assuming a low infill to be well-balanced. If you use too high infill, the Rex may have a tendency to faceplant due to the head being too heavy.
 
@@ -140,6 +161,7 @@ One of the nicest aspects about sharing 3D printable models, is seeing photos of
 
 ## Remarks
 
+* Notice to anyone buying prints of this model: it contains about 70 cents worth of material when printed in a premium filament. Add to this the costs of electricity and perhaps depreciation of printing infrastructure, and a bit of profit margin, and you might end up with about $2.50. Anyone who pays much more than that for a print, is being ripped off.
 * This model was designed using *Blender*, which is a mesh-based program. Mesh-based models cannot be generally converted into a volume-based representation as used by technical CAD programs, so please don't ask me for a STEP file or whatever other CAD format of this model, because there is none ([more info here](https://www.dr-lex.be/3d-printing/step-versus-mesh.html)). If you want to modify the model, the most sensible approach is to use a mesh-based editor.
 * The Blender source file is available (requires 3.2 or newer). The model is constructed using Boolean operators.
   - To ‘render’ the classic Rex, just apply all modifiers to each part.
